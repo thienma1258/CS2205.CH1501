@@ -1,0 +1,13 @@
+1. Lĩnh vực nghiên cứu: 
+- NLP
+2. Hội nghị tạp chí quan trọng:
+- https://medium.com/@robert.munro/the-top-10-nlp-conferences-f91eed97e950
+3. các chủ đề nghiên cứu:
+-  Machine Translation
+- Information Retrieval
+-  Text Categorization
+- Text Summarization
+- Sentiment Analysis and Opinion Mining
+4. Các bài toán nghiên cứu:
+- Hiểu được nghĩa của câu hỏi, tương tác để tìm thêm thông tin. Dựa vào thông tin để đưa ra lời khuyên hoặc nhận định.
+- Ví dụ: Bạn Tôi bị ngất xỉu -> tại sao bạn của bạn ngất xỉu -> Tôi không biết => ấy có bệnh tim mạch không?, bạn ấy có ăn sáng không... 
